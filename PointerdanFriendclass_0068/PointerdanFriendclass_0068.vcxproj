@@ -130,6 +130,7 @@
     <ClCompile Include="friendclasskedua.cpp" />
     <ClCompile Include="friendclasskesatu.cpp" />
     <ClCompile Include="friendfunction.cpp" />
+    <ClCompile Include="frienfunctiondua.cpp" />
     <ClCompile Include="PointerdanFriendclass_0068.cpp" />
     <ClCompile Include="pointerdua.cpp" />
   </ItemGroup>

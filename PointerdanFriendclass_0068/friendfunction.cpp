@@ -6,11 +6,11 @@ class mahasiswa
 private:
 	string nama;
 
-publick:
+public:
 	friend void setNama(mahasiswa &a, string);
 };
 
-void set nama(mahasiswa &a, string pNama);
+void setNama(mahasiswa &a, string pNama);
 {
 	a.Nama = pNama;
 }

@@ -3,7 +3,7 @@ using namespace std;
 
 class mahasiswa
 {
-publick:
+public:
 	int nim;
 	void showNim()
 	{
