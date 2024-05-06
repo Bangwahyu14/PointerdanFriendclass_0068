@@ -14,3 +14,10 @@ void set nama(mahasiswa &a, string pNama);
 {
 	a.Nama = pNama;
 }
+
+int main()
+{
+	mahasiswa joko;
+	setNama(joko, "Kairi Kumar");
+	return 0;
+}
