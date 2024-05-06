@@ -18,5 +18,8 @@
     <ClCompile Include="PointerdanFriendclass_0068.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="pointerdua.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
