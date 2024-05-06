@@ -11,3 +11,12 @@ publick:
 	void setNama(string pNama);
 	friend class siswa;
 };
+
+class siswa
+{
+private:
+	int id;
+publick:
+	void setId(int pid);
+	void displayALL(orang &a);
+};
