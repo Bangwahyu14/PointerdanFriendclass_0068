@@ -20,3 +20,18 @@ publick:
 	void setId(int pid);
 	void displayALL(orang &a);
 };
+
+void siswa::displayALL(orang& a) 
+{
+	cout << id << endl
+		<< a.nama;
+}
+void orang::setNama(string pNama)
+{
+	nama = pNama;
+}
+void siswa::setId(int pid)
+{
+	id = pid;
+}
+int main()

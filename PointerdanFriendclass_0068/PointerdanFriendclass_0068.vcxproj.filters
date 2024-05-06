@@ -24,5 +24,8 @@
     <ClCompile Include="friendclasskesatu.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="friendclasskedua.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
